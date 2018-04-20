@@ -91,11 +91,13 @@ p.line1{
 .content{
 	width: 100%;
 	float: left;
+	color: black;
 }
 
 .content p{
 	font-size: 14px;
 	letter-spacing: 1px;
+	padding-top: 5px;
 }
 
 .form{
